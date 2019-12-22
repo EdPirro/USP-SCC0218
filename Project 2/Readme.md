@@ -33,7 +33,7 @@ Para rodar voce pode usar:
 ```shell
     > make run case=n
 ```
-, com um n entre 1 e 4, para rodar o programa com um dos 4 casos teste fornecidos na pasta [Cases](github.com/EdPirro/USP-SSC0218/tree/master/Project%202/Cases)
+, com um n entre 1 e 4, para rodar o programa com um dos 4 casos teste fornecidos na pasta [Cases](Cases)
 
 ou sem definir nenhum n (de fato qualquer n fora do intervalo [1, 4] teria o mesmo resultado) para rodar o programa sem nenhum caso teste, permitindo dar sua propria entrada para o programa.
 
