@@ -27,4 +27,4 @@ endif
 
 # if tasks.cpp is missing you'll need to download it.
 tasks.cpp:
-	$(error You don't have the source code needed to compile, try getting it at 'https://github.com/EdPirro/USP-SSCsije/tree/master/Project1' and then try again)
+	$(error You don't have the source code needed to compile, try getting it at 'https://github.com/EdPirro/USP-SSC0218/tree/master/Project%201' and then try again)
