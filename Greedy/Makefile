@@ -29,4 +29,4 @@ endif
 
 # if the seleted ex source file is missing you'll need to download it.
 ex$(ex).cpp:
-	$(error You either don't have the source files need or selected a nonexistent exercise, currently existent solutions are 2, 3, 4 and 6)
+	$(error You either don't have the source files need or selected a nonexistent exercise, currently existent solutions are 2, 3, 4 and 6, if you entered one of these you need to dowload the respective cpp file at "https://github.com/EdPirro/USP-SSC0218/tree/master/Greedy")
