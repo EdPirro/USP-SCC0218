@@ -41,4 +41,4 @@ endif
 
 # if main.cpp is missing you'll need to download it.
 main.cpp:
-	$(error You don't have the source code needed to compile, try getting it at 'https://github.com/EdPirro/USP-SSC0218/tree/master/Project%202' and then try again)
+	$(error You don't have the source code needed to compile, try getting it at 'https://github.com/EdPirro/USP-SCC0218/tree/master/Project%202' and then try again)
