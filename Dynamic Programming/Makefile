@@ -29,4 +29,4 @@ endif
 
 # if the seleted ex source file is missing you'll need to download it.
 ex$(ex).cpp:
-	$(error You either don't have the source files needed or selected a nonexistent exercise, currently existent solutions are 1, 2, 6, 6b and 7, if you entered one of these you need to download the respective .cpp file at "https://github.com/EdPirro/USP-SSC0218/tree/master/Dynamic%20Programming")
+	$(error You either don't have the source files needed or selected a nonexistent exercise, currently existent solutions are 1, 2, 6, 6b and 7, if you entered one of these you need to download the respective .cpp file at "https://github.com/EdPirro/USP-SCC0218/tree/master/Dynamic%20Programming")
