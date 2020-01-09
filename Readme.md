@@ -20,5 +20,5 @@ Licensa:
 Todos os algoritmos, arquivos e projetos existentes nesse repositorio são licensiados sob a [licensa MIT](LICENSE).
 
 <sub><sup>
-*Os direitos sobre as listas  de exercicio ([aqui](Dynamic&#32;Programming/List.pdf) e [aqui](Greedy/List.pdf)) são do professor e monitores da disciplina (creditos dentro do arquivo).
+*Os direitos sobre as listas  de exercicio ([aqui](Dynamic&#32;Programming/List.pdf) e [aqui](Greedy/List.pdf)) são do professor e monitores da disciplina.
 </sup></sub>
